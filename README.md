@@ -1,0 +1,2 @@
+# plurety
+vote
